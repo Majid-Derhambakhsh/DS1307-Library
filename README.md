@@ -1,4 +1,4 @@
-![Banner](https://lh4.googleusercontent.com/Jy6xCjtBuf0g8wJbFhPu3-_gGnKoWoiSgzrkpboHQV4CnPBilXyyP2yxI7B2pJDAChKoADsJoi4xLQ=w958-h965)
+![Banner](DS1307.jpg)
 
 # DS1307-Library
 DS1307 (RTC) Library for AVR/ARM microcontroller
