@@ -1,0 +1,9 @@
+~ Author   : Majid Derhambakhsh
+~ Created  : 7/12/2021
+~ Support  : Majid.do16@gmail.com
+~ Github ID: Majid-Derhambakhsh
+
+- MCU                  : STM32F103C8 (Blue Pill Board)
+- Compiler             : STM32CubeIDE
+- Library              : -
+- Programming language : C/C++
